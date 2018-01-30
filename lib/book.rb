@@ -7,12 +7,12 @@ def title
   @title
 end
 
-def author_name=(author_name)
-  @author_name = author_name
+def author=(author)
+  @author = author
 end
 
-def author_name
-  @author_name
-end 
+def author
+  @author
+end
 
 end
