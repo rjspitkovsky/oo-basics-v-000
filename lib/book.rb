@@ -29,6 +29,10 @@ end
 
 def genre
   @genre
-end 
+end
 
+
+def turn_page
+  
+end
 end
